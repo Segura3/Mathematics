@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="formulas">
+        <item>@string/calHypo</item>
+        <item>@string/calCone</item>
+        <item>@string/calOhm</item>
+        <item>@string/calGravity</item>
+    </string-array>
+</resources>

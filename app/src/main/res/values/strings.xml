@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mathematics</string>
+    <string name="selected_item">Valor seleccionado</string>
+    <string name="ingresa_valor">Por favor ingresa los valores necesarios</string>
+    <string name="valReq">Valor requerido</string>
+    <string name="vacio" />
+    <string name="lb">Lado b</string>
+    <string name="la">Lado a</string>
+    <string name="radio">Radio</string>
+    <string name="altura">Altura</string>
+    <string name="corriente">Corriente (I)</string>
+    <string name="resistencia">Resistencia (R)</string>
+    <string name="resolver">Resolver</string>
+    <string name="selecciona">Selecciona una formula</string>
+    <string name="resKey">res</string>
+    <string name="resultado">Leyenda resultado</string>
+    <string name="calHypo">Calculo de hipotenusa</string>
+    <string name="calCone">Volumen de un cono</string>
+    <string name="calOhm">Ley de Ohm</string>
+    <string name="calGravity">Ley de Newton de la gravitación universal</string>
+    <string name="version">Versión 1.0</string>
+    <string name="creador">Por Alberto Segura</string>
+    <string name="dist">Distancia</string>
+    <string name="m1">Masa 1</string>
+    <string name="m2">Masa 2</string>
+    <string name="opcion">opcion</string>
+    <string name="resValue">Aqui iria el resultado</string>
+    <string name="leyendaHipo">La hipotenusa del triangulo es:</string>
+    <string name="leyendaCono">El volumen del cono es:</string>
+    <string name="leyendaVolt">El voltaje es:</string>
+    <string name="leyendaGrav">La fuerza gravitacional es:</string>
+</resources>

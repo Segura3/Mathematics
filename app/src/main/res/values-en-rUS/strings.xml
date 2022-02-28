@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mathematics</string>
+    <string name="selected_item">Selected value</string>
+    <string name="ingresa_valor">Please enter the necessary values</string>
+    <string name="valReq">required value</string>
+    <string name="vacio" />
+    <string name="lb">Side b</string>
+    <string name="la">Side a</string>
+    <string name="radio">Radius</string>
+    <string name="altura">Height</string>
+    <string name="corriente">Current (I)</string>
+    <string name="resistencia">Resistance (R)</string>
+    <string name="resKey">res</string>
+    <string name="selecciona">Select a formula</string>
+    <string name="resultado">Result legend</string>
+    <string name="resolver">Solve</string>
+    <string name="calHypo">Hypotenuse calculation</string>
+    <string name="calCone">Volume of a cone</string>
+    <string name="calOhm">Ohm\'s law</string>
+    <string name="calGravity">Newton\'s law of universal gravitation</string>
+    <string name="version">Version 1.0</string>
+    <string name="creador">By Alberto Segura</string>
+    <string name="dist">Distance</string>
+    <string name="m1">Mass 1</string>
+    <string name="m2">Mass 2</string>
+    <string name="opcion">opcion</string>
+    <string name="resValue">Here would be the result</string>
+    <string name="leyendaHipo">The hypotenuse of the triangle is:</string>
+    <string name="leyendaCono">The volume of the cone is:</string>
+    <string name="leyendaVolt">The voltage is:</string>
+    <string name="leyendaGrav">The gravitational force is:</string>
+</resources>
